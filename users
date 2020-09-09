@@ -1,13 +1,7 @@
-[
-{
-"password": "11111111",
-"username": "Bret",
-"email": "Sincere@april.biz"
 
-},
-{
-"password": "11111",
-"username": "Antonette",
-"email": "Shanna@melissa.tv"
-}
-]
+
+ "user": {
+        "email": "Sincere@april.biz",
+        "password": "11111111",
+        "username": "Bret"
+    }
